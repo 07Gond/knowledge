@@ -1,5 +1,5 @@
 
-# Accessories
+# Ideas for accessories
 
 ## Tripods & Accessories:
 - [https://www.amazon.es/AmazonBasics-Tr%C3%ADpode-ligero-fotograf%C3%ADa-127/dp/B00XI87KV8][1]
