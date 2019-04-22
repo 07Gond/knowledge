@@ -27,8 +27,8 @@ Any cheap tripod for camera for now that support until 1kg.
 
 
 [1]:	https://www.youtube.com/watch?v=VtLVHXUXNNA&t=1052s
-[2]:	Ideas-Accesories.md "ideas page"
+[2]:	Ideas-Accessories.md "ideas page"
 [3]:	https://www.elgato.com/es/gaming/cam-link-4k
 [4]:	https://www.youtube.com/watch?v=gy7dqPgGdlM
 [5]:	https://www.youtube.com/watch?v=AZpjG_D9fAA
-[6]:	Ideas-Accesories.md "ideas page"
+[6]:	Ideas-Accessories.md "ideas page"
