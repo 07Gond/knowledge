@@ -1,5 +1,5 @@
 # [Table of contents]()
-* [Welcome][2] 
+* [Welcome][2]
 
 ## Code
 
@@ -9,6 +9,6 @@
 	* [Gear][5] 
 
 [2]:	README.md
-[3]:	Youtube/Index.md
-[4]:	Youtube/Ideas-Accessories.md
+[3]:	Youtube/README.md
+[4]:	Youtube/Accessories.md
 [5]:	Youtube/Gear.md
