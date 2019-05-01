@@ -4,6 +4,6 @@
 ## Code
 
 ## Multimedia
-* [Youtube](Youtube/README.md)
-	* [Accessories](Youtube/Accessories.md)
-	* [Gear](Youtube/Gear.md)
+* [Youtube](youtube/README.md)
+	* [Accessories](youtube/Accessories.md)
+	* [Gear](youtube/Gear.md)
