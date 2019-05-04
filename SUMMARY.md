@@ -7,3 +7,4 @@
 * [Youtube](youtube/README.md)
 	* [Accessories](youtube/Accessories.md)
 	* [Gear](youtube/Gear.md)
+	* [Tools](youtube/Tools.md)
