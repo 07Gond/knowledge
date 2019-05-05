@@ -3,8 +3,10 @@
 
 ## Code
 
-## Multimedia
-* [Youtube](youtube/README.md)
-	* [Accessories](youtube/Accessories.md)
-	* [Gear](youtube/Gear.md)
-	* [Tools](youtube/Tools.md)
+## Photography & Video
+* Basics
+	* [Lighting](photo-video/basics/Lighting.md)
+* [Youtube](photo-video/youtube/README.md)
+	* [Accessories](photo-video/youtube/Accessories.md)
+	* [Gear](photo-video/youtube/Gear.md)
+	* [Tools](photo-video/youtube/Tools.md)
