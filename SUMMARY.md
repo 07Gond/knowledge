@@ -11,4 +11,5 @@
 	* [Gear](photo-video/youtube/Gear.md)
 	* [Tools](photo-video/youtube/Tools.md)
 * Post-Production
-	* Tools
+	* [Tools](photo-video/post-production/Tools.md)
+	* [Final Cut Pro X](photo-video/post-production/FCPX.md)
