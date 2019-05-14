@@ -2,6 +2,8 @@
 * [Welcome](README.md)
 
 ## Code
+* [Terminal](code/terminal/README.md)
+	* [Bash](code/terminal/Bash.md)
 
 ## Photography & Video
 * Basics
