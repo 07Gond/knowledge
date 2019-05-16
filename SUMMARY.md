@@ -4,6 +4,10 @@
 ## Code
 * [Terminal](code/terminal/README.md)
 	* [Bash](code/terminal/Bash.md)
+* Rust
+	* [Troubleshooting](code/rust/Troubleshooting.md)
+* Node.js
+	* [Troubleshooting](code/nodejs/Troubleshooting.md)
 
 ## Photography & Video
 * Basics
