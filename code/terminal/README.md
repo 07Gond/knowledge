@@ -1,3 +1,16 @@
+---
+description: Mi terminal setup
+---
 
-Using **iTerm2** on MacOS.
-- [https://www.iterm2.com/](https://www.iterm2.com/)
+# Terminal
+
+Terminal:
+
+* **iTerm2:** [https://www.iterm2.com/](https://www.iterm2.com/)
+
+Colors Preferences:
+
+* **Night Owl:** [https://github.com/nickcernis/iterm2-night-owl](https://github.com/nickcernis/iterm2-night-owl)
+
+
+
