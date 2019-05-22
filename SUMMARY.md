@@ -1,21 +1,25 @@
-# [Table of contents]()
+# Table of contents
+
 * [Welcome](README.md)
 
 ## Code
+
 * [Terminal](code/terminal/README.md)
-	* [Bash](code/terminal/Bash.md)
-* Rust
-	* [Troubleshooting](code/rust/Troubleshooting.md)
-* Node.js
-	* [Troubleshooting](code/nodejs/Troubleshooting.md)
+  * [Bash](code/terminal/bash.md)
+* [Rust](code/rust/README.md)
+  * [Troubleshooting](code/rust/troubleshooting.md)
+* [Node.js](code/node.js/README.md)
+  * [Troubleshooting](code/node.js/troubleshooting.md)
 
 ## Photography & Video
-* Basics
-	* [Lighting](photo-video/basics/Lighting.md)
-* [Youtube](photo-video/youtube/README.md)
-	* [Accessories](photo-video/youtube/Accessories.md)
-	* [Gear](photo-video/youtube/Gear.md)
-	* [Tools](photo-video/youtube/Tools.md)
-* Post-Production
-	* [Tools](photo-video/post-production/Tools.md)
-	* [Final Cut Pro X](photo-video/post-production/FCPX.md)
+
+* [Basics](photography-and-video/basics/README.md)
+  * [Lighting](photography-and-video/basics/lighting.md)
+* [Youtube](photography-and-video/youtube/README.md)
+  * [Accessories](photography-and-video/youtube/accessories.md)
+  * [Gear](photography-and-video/youtube/gear.md)
+  * [Tools](photography-and-video/youtube/tools.md)
+* [Post-Production](photography-and-video/post-production/README.md)
+  * [Tools](photography-and-video/post-production/tools.md)
+  * [Final Cut Pro X](photography-and-video/post-production/fcpx.md)
+
