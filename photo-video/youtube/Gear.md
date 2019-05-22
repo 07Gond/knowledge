@@ -1,5 +1,5 @@
 
-# My Video Gear Setup
+My Video Gear Setup
 
 ## Camera:
 - **Canon EOS M50**
@@ -24,4 +24,3 @@ Any cheap tripod for camera for now that support until 1kg.
 	For screen casting, streaming and video call use.  
 
 - I didn’t decide yet a microphone for the Canon camera. Going to choose one from the [ideas page](Ideas-Accessories.md "ideas page")
-

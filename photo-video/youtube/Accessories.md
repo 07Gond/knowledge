@@ -1,5 +1,5 @@
 
-# Ideas for accessories
+Ideas for accessories
 
 ## Camera accessories:
 - [https://www.amazon.es/AmazonBasics-Tr%C3%ADpode-ligero-fotograf%C3%ADa-127/dp/B00XI87KV8](https://www.amazon.es/AmazonBasics-Tr%C3%ADpode-ligero-fotograf%C3%ADa-127/dp/B00XI87KV8)

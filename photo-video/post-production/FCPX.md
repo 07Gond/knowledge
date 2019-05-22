@@ -1,6 +1,4 @@
 
-# Final Cut Pro X
-
 ## Tutorials:
 
 ### For Intros:

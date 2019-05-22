@@ -1,6 +1,4 @@
 
-# Tools
-
 ## Management:
 - [https://vidiq.com/](https://vidiq.com/)
 - [https://www.tubebuddy.com/](https://www.tubebuddy.com/)

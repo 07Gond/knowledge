@@ -1,6 +1,4 @@
 
-# Tools
-
 ## Software:
 - [Final Cut Pro X](FCPX.md)
 

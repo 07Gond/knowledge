@@ -1,6 +1,4 @@
 
-# Lighting theory
-
 I was mostly studying about the “_**three point lighting**_” concept.
 
 Here are some links about the topic:
