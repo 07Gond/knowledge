@@ -1,5 +1,5 @@
 ---
-description: Mi terminal setup
+description: My terminal setup
 ---
 
 # Terminal

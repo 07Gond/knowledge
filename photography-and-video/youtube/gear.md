@@ -1,8 +1,8 @@
-# Gear
-
 ---
 description: My gear setup
 ---
+
+# Gear
 
 ## Camera:
 
@@ -24,3 +24,4 @@ description: My gear setup
 
 * **Blue Yeti Nano** For screen casting, streaming and video call use.
 * I didn’t decide yet a microphone for the Canon camera. Going to choose one from the [ideas page](https://github.com/07Gond/knowledge/tree/c6dc08513afa3ae8236dbf6e5f6a83ec46c8bbee/youtube/Ideas-Accessories.md)
+
