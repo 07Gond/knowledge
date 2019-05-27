@@ -2,8 +2,10 @@
 
 * [Welcome](README.md)
 
-## Code
+## Learning
+* [Podcasts](learning/podcasts.md)
 
+## Code
 * [Terminal](code/terminal/README.md)
   * [Bash](code/terminal/bash.md)
 * [Rust](code/rust/README.md)
@@ -22,4 +24,3 @@
 * [Post-Production](photography-and-video/post-production/README.md)
   * [Tools](photography-and-video/post-production/tools.md)
   * [Final Cut Pro X](photography-and-video/post-production/fcpx.md)
-
